@@ -1,3 +1,3 @@
 # gitEC
-ada
-asdadsda
+Det här är en test
+Jag testar Git och github
